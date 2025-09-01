@@ -30,7 +30,8 @@ export const familyData: FamilyMember[] = [
     deathDate: '07/02/1986',
     hasCitizenship: true,
     citizenshipType: 'staatsangehörigkeitsausweis',
-    relationship: 'Bisavó'
+    relationship: 'Bisavó',
+    notes: 'Nascida em Kiel, Alemanha'
   },
   {
     id: 'fritz',
@@ -39,7 +40,8 @@ export const familyData: FamilyMember[] = [
     marriageDate: '24/12/1925',
     deathDate: '13/05/1966',
     hasCitizenship: false,
-    relationship: 'Bisavô'
+    relationship: 'Bisavô',
+    notes: 'Nascido em Kiel, Alemanha. Cidadania não foi encontrada ou tirada na época.'
   },
   
   // Avó e tias
